@@ -1,6 +1,6 @@
 # tp-09-salas-crud-mongodb
 
-Trabajo práctico 09 del curso de desarrollo back-end con Node.js. Completa las operaciones de actualización y eliminación (`PUT`, `PATCH` y `DELETE`) sobre la API de reservas de salas conectada a MongoDB Atlas, manteniendo la lectura, la creación y las vistas web del TP 08.
+Trabajo práctico 09. Completa las operaciones de actualización y eliminación (`PUT`, `PATCH` y `DELETE`) sobre la API de reservas de salas conectada a MongoDB Atlas, manteniendo la lectura, la creación y las vistas web del TP 08.
 
 ## Origen y entorno del proyecto
 
